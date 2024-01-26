@@ -1,0 +1,39 @@
+html{
+    color: #121212;
+    font-family: sans-serif;
+}
+
+.main-div{
+    text-align: center;
+}
+
+img{
+    width: 380px;
+    border: solid #121212 3px;
+}
+
+p{
+    width: 380px;
+    text-align: center;
+    margin: 20px auto 30px;
+    font-style: italic;
+}
+
+input{
+    display: block;
+    margin: auto;
+    border: solid 3px #121212;
+    padding: 10px 22px;
+    font-weight: bold;
+    text-align: center;
+
+}
+button{
+    display: block;
+    margin: 10px auto 10px auto;
+    border: solid 3px #121212;
+    padding: 10px 74px;
+    background: #121212;
+    color: whitesmoke;
+    font-weight: bold;
+}
